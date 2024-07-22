@@ -1,0 +1,75 @@
+@media (max-width: 575.98px){
+    .caixa-conteudo{
+        margin: 35px;
+    }
+
+    .caixa-sobre{
+        margin: 50px;
+    }
+
+    header{
+        height: 550px;
+    }
+
+    header h1{
+        width: 340px;
+        font-size: 32px;
+    }
+
+    #topo{
+        height: 360px;
+    }
+
+    section#servico{
+        height: 1500px;
+    }
+
+    section#sobre{
+        height: 900px;
+    }
+
+    section#sobre p{
+        text-align: center;
+        width: auto;
+    }
+
+    section#categorias{
+        height: 1800px;
+    }
+
+    section#blog{
+        height: 2200px;
+    }
+
+    section#pesquisas{
+        height: 2200px;
+    }
+
+    section#pesquisas h1{
+        width: 340px;
+        font-size: 30px;
+        margin-bottom: 0;
+    }
+
+    section#contato{
+        height: 1000px;
+    }
+
+    .form-control::-webkit-input-placeholder{
+        font-size: 14px;
+        padding-left: 0;
+    }
+
+    textarea::-webkit-input-placeholder{
+        font-size: 14px;
+        padding-left: 0;
+    }
+
+    footer#rodape{
+        height: 65px;
+    }
+
+    footer#rodape p{
+       padding-top: 7px;
+    }
+}
