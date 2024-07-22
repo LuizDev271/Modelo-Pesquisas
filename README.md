@@ -1,5 +1,6 @@
 # Modelo Pesquisas
-Modelo de Site para Cafeterias <br>
+Modelo de Site para Pesquisas
+<br>
 Tecnologias Usadas: <br>
 
 <div>
